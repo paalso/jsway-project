@@ -1,0 +1,19 @@
+{
+  "name": "jsway-project",
+  "version": "1.0.0",
+  "description": "Final project for the book/course The JavaScript Way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paalso/jsway-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paalso/jsway-project/issues"
+  },
+  "homepage": "https://github.com/paalso/jsway-project#readme"
+}
